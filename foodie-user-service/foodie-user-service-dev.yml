@@ -1,6 +1,6 @@
 #数据库连接串 & 密码
 mariadb: 
-  url: 'jdbc:mysql://localhost:3306/shop?serverTimezone=Asia/Shanghai&amp&characterEncoding=utf8'
+  url: 'jdbc:mysql://localhost:3306/shop?serverTimezone=Asia/Shanghai&amp&characterEncoding=utf8&useSSL=false'
   password: '{cipher}361a2359dbdac4a6dfb6fbabc3b095eafa2b5456f23ecbecfe929f8143f1c224'
 
 #功能开关 开启或关闭注册功能
